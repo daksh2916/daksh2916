@@ -1,12 +1,17 @@
-# Hi there, I'm Daksh 👋  
+## 👨‍💻  
 
-🚀 Passionate about **backend engineering, cloud systems, and AI/ML**.  
-I love building **scalable APIs**, experimenting with **databases (SQL + NoSQL + Vector DBs)**, and occasionally diving into **frontend** for fun.  
-Always excited about **open-source contributions** and learning cutting-edge tech.  
+Hey, I’m **Daksh** — a developer passionate about **backend engineering, cloud systems, and AI/ML**.  
 
----
+I enjoy designing and building **scalable APIs**, working with **databases (SQL, NoSQL, Vector DBs)**, and creating **cloud-native systems** that are both reliable and efficient.  
 
-## 🛠️ Tech Stack  
+I have a growing interest in **DevOps practices, CI/CD pipelines, and infrastructure automation**, and I often explore **distributed systems** to understand how large-scale applications stay resilient.  
+
+While backend is my strong suit, I also like experimenting with **frontend development** for fun and balance.  
+
+I’m always excited about **open-source contributions**, picking up **new technologies**, and solving **challenging engineering problems** that push me to grow.  
+
+
+## 🛠️ Tech Stack (Badges)  
 
 ### 🚀 Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -27,6 +32,9 @@ Always excited about **open-source contributions** and learning cutting-edge tec
 ### ☁️ Cloud & DevOps  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
 ### 🤖 AI / ML  
@@ -34,9 +42,9 @@ Always excited about **open-source contributions** and learning cutting-edge tec
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
 
 ---
-
 
 ## 📊 GitHub Stats  
 
@@ -45,16 +53,14 @@ Always excited about **open-source contributions** and learning cutting-edge tec
 
 ---
 
-
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-tiwari-219583222/)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-tiwari-219583222/)  
 
 ---
 
 ✨ _"First, solve the problem. Then, write the code."_ ✨
+
 
 
 
