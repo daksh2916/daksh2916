@@ -1,17 +1,9 @@
-<table>
-  <tr>
-    <td>
+<div align="center">
 
 # 👨‍💻 Daksh Tiwari  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-tiwari-219583222/)  
 
-    </td>
-    <td align="right">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-tiwari-219583222/)
-
-    </td>
-  </tr>
-</table>
+</div>
 
 Hey, I’m **Daksh** — a developer passionate about **backend engineering, cloud systems, and AI/ML**.  
 
@@ -83,6 +75,7 @@ I’m always excited about **open-source contributions**, picking up **new techn
 ---
 
 ✨ _"First, solve the problem. Then, write the code."_ ✨
+
 
 
 
