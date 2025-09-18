@@ -48,11 +48,13 @@ Always excited about **open-source contributions** and learning cutting-edge tec
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/daksh-tiwari-219583222)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-tiwari-219583222/)
+
 
 
 ---
 
 ✨ _"First, solve the problem. Then, write the code."_ ✨
+
 
 
