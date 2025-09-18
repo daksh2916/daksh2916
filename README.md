@@ -1,17 +1,23 @@
+<!-- Header: name left, badges right -->
 <table width="100%">
   <tr>
-    <td align="left">
-      
-# 👨‍💻 Daksh Tiwari  
-
+    <td align="left" valign="middle">
+      <h1>👨‍💻 Daksh Tiwari</h1>
     </td>
-    <td align="right">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-tiwari-219583222/)
-
+    <td align="right" valign="middle">
+      <a href="https://www.linkedin.com/in/daksh-tiwari-219583222/" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://github.com/daksh2916" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <a href="mailto:your-email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 Hey, I’m **Daksh** — a developer passionate about **backend engineering, cloud systems, and AI/ML**.  
@@ -84,6 +90,7 @@ I’m always excited about **open-source contributions**, picking up **new techn
 ---
 
 ✨ _"First, solve the problem. Then, write the code."_ ✨
+
 
 
 
