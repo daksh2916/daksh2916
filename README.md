@@ -1,4 +1,4 @@
-##👨‍💻 Daksh Tiwari
+## 👨‍💻 Daksh Tiwari
 
 Hey, I’m **Daksh** — a developer passionate about **backend engineering, cloud systems, and AI/ML**.  
 
@@ -56,6 +56,13 @@ I’m always excited about **open-source contributions**, picking up **new techn
 
 ---
 
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-tiwari-219583222/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daksh26tiwari@gmail.com)
+
+---
+
 ## 📊 GitHub Stats  
 
 ![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh2916&show_icons=true&theme=tokyonight&cache_seconds=864000)  
@@ -63,13 +70,10 @@ I’m always excited about **open-source contributions**, picking up **new techn
 
 ---
 
-## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-tiwari-219583222/)  
-
----
 
 ✨ _"First, solve the problem. Then, write the code."_ ✨
+
 
 
 
