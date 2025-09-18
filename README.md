@@ -40,8 +40,8 @@ Always excited about **open-source contributions** and learning cutting-edge tec
 
 ## 📊 GitHub Stats  
 
-![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh2916&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daksh2916&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -54,3 +54,4 @@ Always excited about **open-source contributions** and learning cutting-edge tec
 ---
 
 ✨ _"First, solve the problem. Then, write the code."_ ✨
+
