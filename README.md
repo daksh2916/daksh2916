@@ -45,6 +45,16 @@ I’m always excited about **open-source contributions**, picking up **new techn
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
 
 ---
+## 📌 Pinned Repositories  
+
+- [centralised-data-injestion](https://github.com/your-username/centralised-data-injestion) — Data ingestion pipelines in Python  
+- [movie_recommendation_engine](https://github.com/your-username/movie_recommendation_engine) — A simple movie recommendation system using ML  
+- [Trash-Teacher-frontend](https://github.com/your-username/Trash-Teacher-frontend) — Frontend for Trash Teacher, built with JavaScript  
+- [OBE](https://github.com/Bhaveshgitstar/OBE) — Outcome Based Education project (collaboration)  
+- [voiceXML](https://github.com/your-username/voiceXML) — Python-based voice XML project  
+- [members-management-system](https://github.com/your-username/members-management-system) — Member management system built with TypeScript
+
+---
 
 ## 📊 GitHub Stats  
 
@@ -60,6 +70,7 @@ I’m always excited about **open-source contributions**, picking up **new techn
 ---
 
 ✨ _"First, solve the problem. Then, write the code."_ ✨
+
 
 
 
